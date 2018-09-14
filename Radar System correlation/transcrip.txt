@@ -1,0 +1,21 @@
+
+add wave -r /*
+restart
+force -freeze sim:/banc_test_corr/clk 1 0, 0 {50 us} -r 100 us
+force -freeze sim:/banc_test_corr/clke 1 0, 0 {2500 us} -r 5000 us
+force -freeze sim:/banc_test_corr/reset 1 0
+run
+run
+force -freeze sim:/banc_test_corr/reset 0 0
+run
+
+
+restart
+force -freeze sim:/banc_test_corr/clk 1 0, 0 {5 us} -r 10 us
+force -freeze sim:/banc_test_corr/clke 1 0, 0 {250 us} -r 500 us
+force -freeze sim:/banc_test_corr/reset 1 0
+
+
+
+
+

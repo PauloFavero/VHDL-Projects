@@ -1,0 +1,706 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eadditionneur
+Z0 w1523878803
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/h7moreir/Desktop/Lab4_banc_test_corr
+Z5 8C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur_parallele.vhd
+Z6 FC:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur_parallele.vhd
+l0
+L114
+VG1IG=Gii_h6g8f;goXPBg2
+!s100 EFfAcCPW5Fdl8F75zgjB02
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1523878934
+!i10b 1
+Z9 !s108 1523878933.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur_parallele.vhd|
+Z11 !s107 C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur_parallele.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarch_additionneur
+R1
+R2
+R3
+Z14 DEx4 work 12 additionneur 0 22 G1IG=Gii_h6g8f;goXPBg2
+l123
+L121
+V1@=2WEPC:XPCD<2K1hb;_0
+!s100 A_87YL[Mel4Zc]LJc=Ze10
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebanc_test_corr
+Z15 w1523878608
+R1
+R2
+R3
+R4
+Z16 8C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/banc_test.vhd
+Z17 FC:/Users/h7moreir/Desktop/Lab4_banc_test_corr/banc_test.vhd
+l0
+L11
+VzMJCW5bLM`<W;`n@T]e581
+!s100 0k3K6=DohiM6RXk7V>I<k0
+R7
+32
+Z18 !s110 1523878933
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/banc_test.vhd|
+Z20 !s107 C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/banc_test.vhd|
+!i113 1
+R12
+R13
+Aarch_banc_test_corr
+Z21 DEx4 work 11 stimulateur 0 22 SejD<BNc97mCEjW;47gRI1
+Z22 DPx4 work 11 stimul_pack 0 22 iZgN8V32Dff8hL01F<O4a3
+Z23 DEx4 work 21 correlateur_parallele 0 22 JbVCdnG9CiWkg_1Tf2L6L3
+R1
+R2
+R3
+DEx4 work 14 banc_test_corr 0 22 zMJCW5bLM`<W;`n@T]e581
+l19
+L16
+Vz1lA;9LH=cm9ikDXR3;A@0
+!s100 Uf2N2V:MP04Yk6EToV_]C2
+R7
+32
+R18
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12
+R13
+Ecompt_seq_stim
+Z24 w1490006238
+R1
+R2
+R3
+R4
+Z25 8C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/stimulateur.vhd
+Z26 FC:/Users/h7moreir/Desktop/Lab4_banc_test_corr/stimulateur.vhd
+l0
+L36
+VS:<R>gSbFC[=e_8n]a4VV3
+!s100 ReHgVXZ7QccbONQnhga1?0
+R7
+32
+R18
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/stimulateur.vhd|
+Z28 !s107 C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/stimulateur.vhd|
+!i113 1
+R12
+R13
+Aarch_compt_seq_stim
+R1
+R2
+R3
+Z29 DEx4 work 14 compt_seq_stim 0 22 S:<R>gSbFC[=e_8n]a4VV3
+l52
+L48
+VF]CSF^ccZ7GNQ6SDz`RlX1
+!s100 ^?RE0JbJSLBNOMQ]6=ZdS2
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Ecompteur
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L255
+VNAkVhG:mFC20eI0CAf0TQ0
+!s100 R9DNzCD>V;mX=f=alG4S00
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aarch_compteur
+R1
+R2
+R3
+Z30 DEx4 work 8 compteur 0 22 NAkVhG:mFC20eI0CAf0TQ0
+l262
+L260
+VaVcG:cKBIlY^IKD1j_j?@3
+!s100 ^2]<bIjCae]ZAR<lJ?6d03
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecorrelateur
+Z31 w1523876888
+R22
+R1
+R2
+R3
+R4
+Z32 8C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur.vhd
+Z33 FC:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur.vhd
+l0
+L294
+VYzVBmciVkjOF5_nNnEB]A1
+!s100 OZCFAFe7:o<ooG>@3h6;U3
+R7
+32
+R18
+!i10b 1
+R9
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur.vhd|
+Z35 !s107 C:/Users/h7moreir/Desktop/Lab4_banc_test_corr/correlateur.vhd|
+!i113 1
+R12
+R13
+Aarch_correlateur
+Z36 DEx4 work 8 compteur 0 22 JiZ[B31U11FnfgFCd_9e?0
+Z37 DEx4 work 15 seq_correlateur 0 22 8FP8b[<nfaeKQOgSl^T@^0
+Z38 DEx4 work 12 additionneur 0 22 9IM4=AU3i^F0Z?o`04e8Z0
+Z39 DEx4 work 8 registre 0 22 W<EhJ[E?[`f`MaTR^zJCR1
+Z40 DEx4 work 11 multiplieur 0 22 PZB6;NC376?g6KQez:cUC3
+Z41 DEx4 work 4 pile 0 22 SlQR:AmGan;9mgP=g8VWG2
+R22
+R1
+R2
+R3
+DEx4 work 11 correlateur 0 22 YzVBmciVkjOF5_nNnEB]A1
+l310
+L301
+VmYKnc`7NIbo4]]W;?CcWb0
+!s100 o]0UGQR0=9zPnNncOC?eN1
+R7
+32
+R18
+!i10b 1
+R9
+R34
+R35
+!i113 1
+R12
+R13
+Ecorrelateur_parallele
+R0
+R22
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L296
+VJbVCdnG9CiWkg_1Tf2L6L3
+!s100 Fa[[=6=z6mnHF@RSF]N6U1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aarch_correlateur
+R30
+Z42 DEx4 work 15 seq_correlateur 0 22 83WOfbdm4hAcVg^=HnGic2
+R14
+Z43 DEx4 work 8 registre 0 22 E]?:Cd]]7ofi1dD7REVL92
+Z44 DEx4 work 11 multiplieur 0 22 ljRg>24niOO1Ob<^XEhjd3
+Z45 DEx4 work 4 pile 0 22 1Dj89]XJ1XnZo;=VfMNJl2
+R22
+R1
+R2
+R3
+R23
+l312
+L303
+Z46 VeXDjdn]5S4F]Ao2cS9obT2
+Z47 !s100 _c_^Hag@lj9PM3>c9RH[<1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Egene_bruit
+R24
+Z48 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R1
+R2
+R3
+R4
+R25
+R26
+l0
+L98
+VUz1HHG?^=RW[46;iSczD93
+!s100 4DJM4_h]L4=eIIibO:L^@3
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Aarch_gene_bruit
+R48
+R1
+R2
+R3
+Z49 DEx4 work 10 gene_bruit 0 22 Uz1HHG?^=RW[46;iSczD93
+l108
+L106
+VjCI8ggUNQ^^mWgiJHJCgD3
+!s100 53jQCo0eCmJ`>e?7o4<Ng3
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Egene_chirp
+R24
+R22
+R48
+R1
+R2
+R3
+R4
+R25
+R26
+l0
+L140
+VR16g@oWR9@6]cj=J3?[6K1
+!s100 WDFaJREmKe0md3WA?:d742
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Aarch_gene_chirp
+R22
+R48
+R1
+R2
+R3
+Z50 DEx4 work 10 gene_chirp 0 22 R16g@oWR9@6]cj=J3?[6K1
+l165
+L151
+VU3UYWKb=E7[S47G_`LaP:1
+!s100 zPEQ8Hb7neKUB<_ci[69S1
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Emultiplexeur
+R24
+R22
+R48
+R1
+R2
+R3
+R4
+R25
+R26
+l0
+L207
+Vf6C<9J_3HDK]R?<ddlS1I3
+!s100 T]gF9N^4E<[Z_5B^>=a2C0
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Aarch_multiplexeur
+R22
+R48
+R1
+R2
+R3
+Z51 DEx4 work 12 multiplexeur 0 22 f6C<9J_3HDK]R?<ddlS1I3
+l221
+L216
+VnhmOGd0W;:jeOP5PKegCc1
+!s100 5InbEzzLb5j1H3D]jD2aZ3
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Emultiplieur
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L89
+VljRg>24niOO1Ob<^XEhjd3
+!s100 jC`_IhI`8Q8V:E_>E`Ph40
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aarch_multiplieur
+R1
+R2
+R3
+R44
+l98
+L96
+VTQ>>cn4=meDBR7INI<Z6=1
+!s100 QM=:m>A]>Z;=UFCoDm6dB3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Epile
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L25
+V1Dj89]XJ1XnZo;=VfMNJl2
+!s100 TChQL8SEOgGi1P84[DVOB1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aarch_pile
+R1
+R2
+R3
+R45
+l44
+L37
+VKjabeZHA_E1;2hWi0;H?k2
+!s100 nXUUE7Rl5`TDo1`m`TocA2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eregistre
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L138
+VE]?:Cd]]7ofi1dD7REVL92
+!s100 FI74C=@b4LU6[bXLXMO[^0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aarch_registre
+R1
+R2
+R3
+R43
+l148
+L147
+VL=]PN;<kdL<o4N^3jJW142
+!s100 lDDa?mQAIFz_GS?cNkEgF2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eseq_correlateur
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L169
+V83WOfbdm4hAcVg^=HnGic2
+!s100 4T_aTGYz=YEbIicWh1fzZ2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aarch_seq_correlateur
+R1
+R2
+R3
+R42
+l184
+L181
+VE3VNYhBFIe>fYU?AiAGYS2
+!s100 ^S;A`lgJ3PZ;6[]WEA7^^3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Estim_sequenceur
+R24
+R22
+R48
+R1
+R2
+R3
+R4
+R25
+R26
+l0
+L251
+VzTVC4[NIBSC;5^]hM2W0z1
+!s100 9>[QB0Z4iZO_@XJi:j_992
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Aarch_stim_sequenceur
+R22
+R48
+R1
+R2
+R3
+Z52 DEx4 work 15 stim_sequenceur 0 22 zTVC4[NIBSC;5^]hM2W0z1
+l275
+L269
+V0Y[lYcgcLBJV@W1H9_P8I1
+!s100 U__kXN4D:7R=HkUNL]keC0
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Pstimul_pack
+R2
+R3
+R24
+R4
+R25
+R26
+l0
+L7
+ViZgN8V32Dff8hL01F<O4a3
+!s100 PW;g:7jm]SoYJGl9b]@o23
+R7
+32
+b1
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Bbody
+R22
+R2
+R3
+l0
+L19
+Vb^Al6:a8dZ4T<0e^i:;631
+!s100 U1Ud9mdLEE3Ecno[z8o]C3
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Estimulateur
+R24
+R22
+R1
+R2
+R3
+R4
+R25
+R26
+l0
+L381
+VSejD<BNc97mCEjW;47gRI1
+!s100 g56O5`USU9^BQQ4XQ4FNS0
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Aarch_stimulateur
+R50
+R49
+R51
+R48
+R52
+R29
+R22
+R1
+R2
+R3
+R21
+l400
+L392
+V<IikN_SCBMQLSLz`n8OIc2
+!s100 c]@OzdI:SCH@@6?W:5i740
+R7
+32
+R18
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
