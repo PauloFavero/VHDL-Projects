@@ -1,0 +1,102 @@
+C:/Users/Arthur/Desktop/aaa/visor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/visor.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity visor
+-- Compiling architecture comportamento of visor
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/circuitoA.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/circuitoA.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity circuitoA
+-- Compiling architecture behavior_CircuitoA of CircuitoA
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/segment.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/segment.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity segment
+-- Compiling architecture Behavior_segment of segment
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/Exp2d.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/Exp2d.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Exp2d
+-- Compiling architecture behavior of Exp2d
+** Error (suppressible): C:/Users/Arthur/Desktop/aaa/Exp2d.vhd(139): (vcom-1272) Length of formal "comp_in" is 5; length of actual is 4.
+
+** Error: C:/Users/Arthur/Desktop/aaa/Exp2d.vhd(159): VHDL Compiler exiting
+
+} {10.0 11.0} {}} C:/Users/Arthur/Desktop/aaa/circuitoB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/circuitoB.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CircuitoB
+-- Compiling architecture behavior_CircuitoB of CircuitoB
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/Multiplex_2_1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/Multiplex_2_1.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Multiplex_2_1
+-- Compiling architecture mux_2_to_1 of Multiplex_2_1
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/Comparador.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/Comparador.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Comparador
+-- Compiling architecture Behavior of Comparador
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/FullSum1Bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/FullSum1Bit.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FullSum1Bit
+-- Compiling architecture Sum of FullSum1Bit
+-- Compiling entity Exp_2b
+-- Compiling architecture FourBitSum of Exp_2b
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/FullSum.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/FullSum.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FullSum
+-- Compiling architecture behavior of FullSum
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/SOMADOR.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/SOMADOR.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SOMADOR
+-- Compiling architecture behavior of SOMADOR
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/Conversor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/Conversor.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Conversor
+-- Compiling architecture Behavior of Conversor
+
+} {} {}} C:/Users/Arthur/Desktop/aaa/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Arthur/Desktop/aaa/mux.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture comportamento of mux
+
+} {} {}}

@@ -1,0 +1,18 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+entity CircuitoB is
+
+port (Z : IN  STD_LOGIC;
+		saidaB : OUT STD_LOGIC);
+		END CircuitoB;
+		
+		ARCHITECTURE behavior_CircuitoB of CircuitoB IS
+		begin
+		
+	
+saidaB <= '1' WHEN Z='0' ELSE
+	'0';
+	
+		end behavior_CircuitoB;		
+		

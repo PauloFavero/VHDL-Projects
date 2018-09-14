@@ -1,0 +1,3 @@
+Na parte A do Laboratório 4 foram usados 25 elementos lógicos.
+Na parte B do laboratório 4 foram usados 25 elementos lógicos.
+Na parte C do laboratório 4 foram usados 16 elementos lógicos.

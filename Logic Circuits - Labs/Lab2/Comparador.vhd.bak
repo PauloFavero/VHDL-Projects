@@ -1,0 +1,15 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+entity Comparador is
+
+port (R1, S1, T1 : IN  STD_LOGIC;
+		W1 : OUT STD_LOGIC);
+		END Comparador;
+		
+		ARCHITECTURE behavior_comparador of Comparador IS
+		begin
+		
+		W1 <=((R1 and T1) or (R1 and S1));
+		
+		end behavior_comparador;
