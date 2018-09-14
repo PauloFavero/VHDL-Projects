@@ -1,0 +1,33 @@
+add wave -position insertpoint  \
+sim:/bvp_numerique/reset
+add wave -position insertpoint  \
+sim:/bvp_numerique/clk
+add wave -position insertpoint  \
+sim:/bvp_numerique/Top_0
+add wave -position insertpoint  \
+sim:/bvp_numerique/Top_Synchro
+add wave -position insertpoint  \
+sim:/bvp_numerique/sin1 \
+sim:/bvp_numerique/sin2 \
+sim:/bvp_numerique/sin3
+add wave -position insertpoint  \
+sim:/bvp_numerique/Phase
+
+------------- TEST 300Hz 
+
+restart -f
+force -freeze clk 1 0, 0 {166 us} -r 333 us
+force -freeze Top_0 1 0, 0 {333 us} -r 3333 us
+force -freeze reset 1 10 us
+force -freeze reset 0 500 us
+run 1000 ms
+
+
+--------------- TEST 60 Hz 
+
+restart -f
+force -freeze clk 1 0, 0 {166 us} -r 333 us
+force -freeze Top_0 1 0, 0 {1666 us} -r 16666 us
+force -freeze reset 1 10 us
+force -freeze reset 0 500 us
+run 5000 ms

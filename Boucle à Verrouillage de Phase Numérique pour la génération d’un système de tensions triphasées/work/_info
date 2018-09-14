@@ -1,0 +1,555 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/paulo/Desktop/VHDL SEN/Lab3_VHDL
+Eadd_9bit
+Z0 w1522063907
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3
+Z6 8C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/OCN.vhdl
+Z7 FC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/OCN.vhdl
+l0
+L29
+Vdf]7OM_NId5e>_ZF6Ncnj2
+!s100 AWCo@AZo^dh=KRNIeZ8G51
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1522065093
+!i10b 1
+Z10 !s108 1522065093.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/OCN.vhdl|
+Z12 !s107 C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/OCN.vhdl|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aarch_add_9bit
+R1
+R2
+R3
+R4
+Z15 DEx4 work 8 add_9bit 0 22 df]7OM_NId5e>_ZF6Ncnj2
+l39
+L36
+VL0hBiMf6n?bFD`?kza97j1
+!s100 nNfnM3`^MI0eG=gmd>WF@0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ebvp_numerique
+Z16 w1522065090
+Z17 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z18 8C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/BVP.vhdl
+Z19 FC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/BVP.vhdl
+l0
+L7
+VkJ2K5@7Ea7fbN>VS[WclG0
+!s100 ?Vn<jzQECInAK8AS3?M3f2
+R8
+32
+Z20 !s110 1522065092
+!i10b 1
+Z21 !s108 1522065092.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/BVP.vhdl|
+Z23 !s107 C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/BVP.vhdl|
+!i113 1
+R13
+R14
+Aarch_bvp_numerique
+Z24 DEx4 work 4 rom3 0 22 B[H1f54kZe;M:KXH9_zmQ2
+Z25 DEx4 work 4 rom2 0 22 =dIL69;bG5^Vc8b2Nj64W3
+Z26 DEx4 work 4 rom1 0 22 4DJ?SQmPg6MF12A@diXoR1
+Z27 DEx4 work 3 ocn 0 22 _:Y;UJJD@@9F0A?DdHSVd3
+Z28 DEx4 work 13 filtre_boucle 0 22 ;bFlkX1QP8oPao@elW3C<2
+Z29 DEx4 work 21 comparateur_de_phases 0 22 =GlDI8n^=c]kCO99o`ASA3
+R17
+R3
+R4
+DEx4 work 13 bvp_numerique 0 22 kJ2K5@7Ea7fbN>VS[WclG0
+l23
+L14
+VT4O>KifXgo_ekY8ZkckET3
+!s100 E_9JMkX:nV:gCTV9kLZOL1
+R8
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R13
+R14
+Ecomparateur_de_phases
+Z30 w1522062053
+R17
+R3
+R4
+R5
+Z31 8C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/comparateur_de_phases.vhdl
+Z32 FC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/comparateur_de_phases.vhdl
+l0
+L115
+V=GlDI8n^=c]kCO99o`ASA3
+!s100 b?aH4Z8O@ddR2De?zlzGW3
+R8
+32
+R9
+!i10b 1
+R10
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/comparateur_de_phases.vhdl|
+Z34 !s107 C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/comparateur_de_phases.vhdl|
+!i113 1
+R13
+R14
+Aarch_comparateur_de_phases
+Z35 DEx4 work 13 me_comp_phase 0 22 O]VSk^I3:386IXk3WzOVQ2
+Z36 DEx4 work 12 detect_front 0 22 CDHdACS8b<gfWKkCPl8FX1
+R17
+R3
+R4
+R29
+l128
+L125
+VMA95f6@E];e@UCe`K1Ef[0
+!s100 a5;8B3Hl?_9e3lJJ5AZNj0
+R8
+32
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14
+Econteur
+Z37 w1521939330
+R17
+R3
+R4
+R5
+Z38 8C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/Filtre_Boucle.vhdl
+Z39 FC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/Filtre_Boucle.vhdl
+l0
+L7
+VWHC^lU5o>Jdlm]DUY8kGO3
+!s100 X5bnN]872ZVoU:i_c^VdG1
+R8
+32
+R9
+!i10b 1
+R10
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/Filtre_Boucle.vhdl|
+Z41 !s107 C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/Filtre_Boucle.vhdl|
+!i113 1
+R13
+R14
+Aarch_conteur
+R17
+R3
+R4
+Z42 DEx4 work 7 conteur 0 22 WHC^lU5o>Jdlm]DUY8kGO3
+l16
+L14
+VS7oZaJZf<PAnO2iWn:QD33
+!s100 iY=QZVLZ=``56FOdf;iJT1
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Ecorrecteur
+R37
+R17
+R3
+R4
+R5
+R38
+R39
+l0
+L41
+VzGMR@J>oCYVHQVSCK;hzl3
+!s100 OGb1;3oN9hIEza__C]<Xk0
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Aarch_correcteur
+R17
+R3
+R4
+Z43 DEx4 work 10 correcteur 0 22 zGMR@J>oCYVHQVSCK;hzl3
+l50
+L47
+V0nYzBFjfL?Fl0gl7jWPZ00
+!s100 ?W1bcH<QT2BijYF[fChof3
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Edetect_front
+R30
+R17
+R3
+R4
+R5
+R31
+R32
+l0
+L7
+VCDHdACS8b<gfWKkCPl8FX1
+!s100 YK`aO25cB@^k9f>FI6WC72
+R8
+32
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14
+Aarch_detect_front
+R17
+R3
+R4
+R36
+l16
+L12
+V7N<jnK9T;DhCHAHYX8hVA0
+!s100 zjC7?6MKzPUWg2;i>UHIZ2
+R8
+32
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14
+Efiltre_boucle
+R37
+R17
+R3
+R4
+R5
+R38
+R39
+l0
+L67
+V;bFlkX1QP8oPao@elW3C<2
+!s100 kKl8`9QofQD@6D:8FK?S73
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Aarc_filtre_boucle
+R43
+R42
+R17
+R3
+R4
+R28
+l75
+L73
+VN2]gTcO<F80aXeEnPzmQW3
+!s100 Mzi9L5KT8cJhhgfDPPLU01
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Eme_comp_phase
+R30
+R17
+R3
+R4
+R5
+R31
+R32
+l0
+L50
+VO]VSk^I3:386IXk3WzOVQ2
+!s100 e7e8F^W2?=[FX1jBHg61m3
+R8
+32
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14
+Aarch_me_comp_phase
+R17
+R3
+R4
+R35
+l59
+L55
+V`E^^cV1UN?7V;307nBoo;1
+!s100 Xmbz`XL:_X_jja^66B@k10
+R8
+32
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14
+Eocn
+R0
+R3
+R4
+R5
+R6
+R7
+l0
+L50
+V_:Y;UJJD@@9F0A?DdHSVd3
+!s100 bGbPlF=R3JCZ`W3RNn@0g2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_ocn
+Z44 DEx4 work 8 registre 0 22 PFagGN8@SZZRbo_RWS`=00
+R1
+R2
+R15
+R3
+R4
+R27
+l62
+L58
+V_?eLb3z3Ab?5W6][:LM9e2
+!s100 m>T4<TH;UiV2AJ2];JUUj2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eregistre
+R0
+R3
+R4
+R5
+R6
+R7
+l0
+L6
+VPFagGN8@SZZRbo_RWS`=00
+!s100 e]jKi@Fh]LQ[Q6Ib4BG=j2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_registre
+R3
+R4
+R44
+l13
+L12
+VbWT[9AhHUbzZ:0azV11=E3
+!s100 ]blEi:Gm`z::B?>`4k?b=2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Erom1
+Z45 w1521939336
+R17
+R3
+R4
+R5
+Z46 8C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_1.vhdl
+Z47 FC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_1.vhdl
+l0
+L6
+V4DJ?SQmPg6MF12A@diXoR1
+!s100 G<EJoGcFn1FNg3@o`9C:c2
+R8
+32
+R9
+!i10b 1
+R10
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_1.vhdl|
+Z49 !s107 C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_1.vhdl|
+!i113 1
+R13
+R14
+Aarch_rom1
+R17
+R3
+R4
+R26
+l121
+L12
+V[>4oA=SNE0E58cGB1lZm_3
+!s100 fVkTlXcEXm^:oQ]=18VUl1
+R8
+32
+R9
+!i10b 1
+R10
+R48
+R49
+!i113 1
+R13
+R14
+Erom2
+R45
+R17
+R3
+R4
+R5
+Z50 8C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_2.vhdl
+Z51 FC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_2.vhdl
+l0
+L6
+V=dIL69;bG5^Vc8b2Nj64W3
+!s100 8VhST5eK87n[94e5=HJ<g0
+R8
+32
+R9
+!i10b 1
+R10
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_2.vhdl|
+Z53 !s107 C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_2.vhdl|
+!i113 1
+R13
+R14
+Aarch_rom2
+R17
+R3
+R4
+R25
+l121
+L12
+Z54 VA:B4@AcPMJ?D45^A2j<Y62
+Z55 !s100 gL9OVY<onQQ?>Oh^Tgjlm0
+R8
+32
+R9
+!i10b 1
+R10
+R52
+R53
+!i113 1
+R13
+R14
+Erom3
+Z56 w1521939334
+R17
+R3
+R4
+R5
+Z57 8C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_3.vhdl
+Z58 FC:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_3.vhdl
+l0
+L6
+VB[H1f54kZe;M:KXH9_zmQ2
+!s100 AiNGkVQ2W5:Gg0jDJBgTG2
+R8
+32
+R20
+!i10b 1
+R21
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_3.vhdl|
+Z60 !s107 C:/intelFPGA_lite/17.0/modelsim_ase/examples/Labo 3/Labo 3/ROM_3.vhdl|
+!i113 1
+R13
+R14
+Aarch_rom3
+R17
+R3
+R4
+R24
+l121
+L12
+VOfSff>V:z5AE3oO<BiZJ^2
+!s100 S_NUCiX_1oBjB4M2ZEN>g0
+R8
+32
+R20
+!i10b 1
+R21
+R59
+R60
+!i113 1
+R13
+R14
