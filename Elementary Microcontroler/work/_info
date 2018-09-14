@@ -1,0 +1,608 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.0
+Eaccumulator
+Z0 w1521478527
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/h7moreir/Desktop/LAB2
+Z6 8C:/Users/h7moreir/Desktop/LAB2/mu0.vhd
+Z7 FC:/Users/h7moreir/Desktop/LAB2/mu0.vhd
+l0
+L160
+V9E5QTIj`C4]gE^SonKS=E2
+!s100 zeR:DizGYd5RaQJZ1l9Bk2
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1521478661
+!i10b 1
+Z10 !s108 1521478661.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/LAB2/mu0.vhd|
+Z12 !s107 C:/Users/h7moreir/Desktop/LAB2/mu0.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aarch_acc
+R1
+R2
+R3
+R4
+Z15 DEx4 work 11 accumulator 0 22 9E5QTIj`C4]gE^SonKS=E2
+l169
+L167
+VQjSc9PG>12bhMn]?`OH<b1
+!s100 JN2DLc8:@DMULK2H=?iZD3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu
+R0
+Z16 DPx4 work 7 up_pack 0 22 <WCGOhcB_?<DLbzR>C<133
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L112
+VM8ATkmCNl@@KPY9h;;FHR0
+!s100 X?`PEU[4G1hOgUN0_NUz>0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_alu
+R16
+R2
+R3
+R4
+Z17 DEx4 work 3 alu 0 22 M8ATkmCNl@@KPY9h;;FHR0
+l120
+L118
+V;a=YZF=LlBe_99[lTiRnS3
+!s100 GdO`Pk?b]XFD2fGiW<9el0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eir_reg
+R0
+R16
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L194
+VC182JOlC=U_olMo7^FbLm2
+!s100 5Ae1J?EnVg@2Ge@HaKWdl2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_ir_reg
+R16
+R2
+R3
+R4
+Z18 DEx4 work 6 ir_reg 0 22 C182JOlC=U_olMo7^FbLm2
+l203
+L201
+Vkkne0V7daeYj2:]PjZ6kJ1
+!s100 G[C<0<]UHDZ=z5Xf?nX2k1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emu0
+R0
+R16
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L452
+V4McS<flP7``mTMa<6;^Eg1
+!s100 e]TjJ6k@nTdbBnXS2WJMf3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_mu0
+Z19 DEx4 work 10 sequenceur 0 22 07L<k88KAZ<CznTCM<]?`3
+Z20 DEx4 work 5 reg_r 0 22 TR3CARPBgbz]ljmKSXGQ40
+Z21 DEx4 work 6 pc_reg 0 22 `LW4li_2@?O;Jn2>5Njj[3
+R18
+R1
+R15
+R17
+Z22 DEx4 work 8 tristate 0 22 VI[AUOl6[^FOCH[][T7YL3
+Z23 DEx4 work 5 mux_c 0 22 16UP<eHZKmRi5j9:]]zEa2
+Z24 DEx4 work 5 mux_b 0 22 Fin<kk[`YjoalX37S5OlM1
+Z25 DEx4 work 5 mux_a 0 22 hM_bF1Z51cDdWAWIg^RDc3
+R16
+R2
+R3
+R4
+Z26 DEx4 work 3 mu0 0 22 4McS<flP7``mTMa<6;^Eg1
+l483
+L461
+V_Pa^CaYS2gVREUzE1c_n;2
+!s100 cj^::WFVUSUakNdMS3HZX1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emu0_mem
+Z27 w1521455044
+R2
+R3
+R4
+R5
+Z28 8C:/Users/h7moreir/Desktop/LAB2/mu0_mem.vhd
+Z29 FC:/Users/h7moreir/Desktop/LAB2/mu0_mem.vhd
+l0
+L9
+V;>NPFYfDX05biWB?DhHQM2
+!s100 =Oic2PQYZ3CE@OIX7ggb92
+R8
+32
+R9
+!i10b 1
+R10
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/LAB2/mu0_mem.vhd|
+Z31 !s107 C:/Users/h7moreir/Desktop/LAB2/mu0_mem.vhd|
+!i113 1
+R13
+R14
+Aarch_mu0_mem
+R16
+R26
+Z32 DEx4 work 4 ram0 0 22 ?:]9^5eGn2RMOTYJPzMPm0
+R2
+R3
+R4
+DEx4 work 7 mu0_mem 0 22 ;>NPFYfDX05biWB?DhHQM2
+l21
+L18
+VMB=WQ=RE<0kmLHczDA;h53
+!s100 MJl1QlD<=W5Oglh_ek7M60
+R8
+32
+R9
+!i10b 1
+R10
+R30
+R31
+!i113 1
+R13
+R14
+Emux_a
+R0
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L11
+VhM_bF1Z51cDdWAWIg^RDc3
+!s100 m8RZHTm6GLQjKnP;7AI6V0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_mux_a
+R2
+R3
+R4
+R25
+l18
+L17
+VjWFj2N2A?X54D[o?mmN1l0
+!s100 h@SM>c2JHX8D4zZ7fZB3z3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emux_b
+R0
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L36
+VFin<kk[`YjoalX37S5OlM1
+!s100 8F402Q:37fB_0zSGCk4>X1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_mux_b
+R2
+R3
+R4
+R24
+l43
+L42
+VW=CLK1c0Hid`_]S@C3Hd70
+!s100 _0;D]KAUONOkA74XbS@7U0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emux_c
+R0
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L61
+V16UP<eHZKmRi5j9:]]zEa2
+!s100 bVe]>1B@2>QVJl9Kk9HAV3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_mux_c
+R2
+R3
+R4
+R23
+l68
+L67
+VmR2UIeUf=[;T1P8FLFDCM3
+!s100 ``;0LkP8EiSHh:>IRfm0_2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Epc_reg
+R0
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L245
+V`LW4li_2@?O;Jn2>5Njj[3
+!s100 mgl^B0_azlA0J?agj]>S]0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_pc_reg
+R2
+R3
+R4
+R21
+l252
+L251
+VNZ9m_A@mD_b3a_KUZ1cmW3
+!s100 YR<mP59?MGK:_<lWeZHhl2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eram0
+Z33 w1521472945
+R2
+R3
+R4
+R5
+Z34 8C:/Users/h7moreir/Desktop/LAB2/memoire.vhd
+Z35 FC:/Users/h7moreir/Desktop/LAB2/memoire.vhd
+l0
+L7
+V?:]9^5eGn2RMOTYJPzMPm0
+!s100 GO3>n_?8B_5=8c5c_`9RJ2
+R8
+32
+R9
+!i10b 1
+R10
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/LAB2/memoire.vhd|
+Z37 !s107 C:/Users/h7moreir/Desktop/LAB2/memoire.vhd|
+!i113 1
+R13
+R14
+Asyn
+R2
+R3
+R4
+R32
+l61
+L36
+V`o]0eng9iH51ST_YY]MJM0
+!s100 bhEK`RcA5>gAANFH^03iB1
+R8
+32
+R9
+!i10b 1
+R10
+R36
+R37
+!i113 1
+R13
+R14
+Ereg_r
+R0
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L276
+VTR3CARPBgbz]ljmKSXGQ40
+!s100 C@]ER5z`@7cWgL6j6V<IG3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_reg_r
+R2
+R3
+R4
+R20
+l283
+L282
+VEfE=PHg`0CCHGRjlk>QnP1
+!s100 @3[gTWa5nn<@:QBeDSz7a2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Esequenceur
+R0
+R16
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L305
+V07L<k88KAZ<CznTCM<]?`3
+!s100 K5Q<kXT36>F_H2F3>joRg2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_seq
+R16
+R2
+R3
+R4
+R19
+l324
+L318
+V9e`1[NeGTX>FHJjh1=OkK0
+!s100 @gki31o;:IUn1i7=9Z0681
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etristate
+R0
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L86
+VVI[AUOl6[^FOCH[][T7YL3
+!s100 AfZUUzjc]C3c`V[L>5mGO3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aarch_tristate
+R2
+R3
+R4
+R22
+l93
+L92
+VgHF<7FX?lIGUiJKZPUAO^3
+!s100 QIVX666<kXk>ZCcW>F]lj3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Pup_pack
+R2
+R3
+R4
+Z38 w1521391002
+R5
+Z39 8C:/Users/h7moreir/Desktop/LAB2/up_pack.vhd
+Z40 FC:/Users/h7moreir/Desktop/LAB2/up_pack.vhd
+l0
+L22
+V<WCGOhcB_?<DLbzR>C<133
+!s100 _CO]KGiHLF7S5MWBe>BaZ0
+R8
+32
+R9
+!i10b 1
+R10
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/h7moreir/Desktop/LAB2/up_pack.vhd|
+Z42 !s107 C:/Users/h7moreir/Desktop/LAB2/up_pack.vhd|
+!i113 1
+R13
+R14
+Bbody
+R16
+R2
+R3
+R4
+l0
+L48
+Z43 VZeV7jC4MDcCOZeZgLH=R73
+Z44 !s100 2I_90cb_?YR3nZ9D3AzIg1
+R8
+32
+R9
+!i10b 1
+R10
+R41
+R42
+!i113 1
+R13
+R14
